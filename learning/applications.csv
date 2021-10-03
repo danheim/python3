@@ -1,0 +1,39 @@
+id,code,page,en,uk,ru
+2432,applications.main_title,applications,My applications,Мої заявки,Мои заявки
+2434,applications.course_name,applications,Course,Курс,Курс
+2436,applications.assignment_date,applications,date of application,Дата подачі,Дата подачи
+2438,applications.application_status,applications,Status,Статус,Статус
+2440,applications.counter,applications,Applications,Заявки,Заявки
+2442,applications.new_application,applications,New application,Нова заявка,Новая заявка
+2444,applications.new,applications,Application,Подача заявки,Подача заявки
+2446,applications.learningResources,applications,Preparation,Підготовка,Подготовка
+2448,applications.doingTestTask,applications,Test task,Тестове,Тестовое
+2450,applications.interview,applications,Interview,Інтерв'ю,Интервью
+2452,applications.signingAgreement,applications,Contract,Договір,Договор
+2454,applications.becameStudent,applications,MA student,Студент МА,Студент МА
+2456,applications.rejected,applications,Rejected,Відхилено,Отклонено
+2606,applications.introduction,applications,Application,Подача заявки,Подача заявки
+2608,applications.notInterested,applications,Rejected,Відхилено,Отклонено
+2848,hour_short,applications,year,год,ч
+2866,application.resources_text,applications,Preparation materials are available at,Матеріали для підготовки доступні за,Материалы для подготовки доступны по
+2868,application.resources_link,applications,link,посиланням,ссылке
+6938,applications.no-applications,applications,Here you can sign up for full-time studying,Тут можна записатись на навчання повного дня,Здесь можно записаться на обучение полного дняid,code,page,en,uk,ru
+2432,applications.main_title,applications,My applications,Мої заявки,Мои заявки
+2434,applications.course_name,applications,Course,Курс,Курс
+2436,applications.assignment_date,applications,date of application,Дата подачі,Дата подачи
+2438,applications.application_status,applications,Status,Статус,Статус
+2440,applications.counter,applications,Applications,Заявки,Заявки
+2442,applications.new_application,applications,New application,Нова заявка,Новая заявка
+2444,applications.new,applications,Application,Подача заявки,Подача заявки
+2446,applications.learningResources,applications,Preparation,Підготовка,Подготовка
+2448,applications.doingTestTask,applications,Test task,Тестове,Тестовое
+2450,applications.interview,applications,Interview,Інтерв'ю,Интервью
+2452,applications.signingAgreement,applications,Contract,Договір,Договор
+2454,applications.becameStudent,applications,MA student,Студент МА,Студент МА
+2456,applications.rejected,applications,Rejected,Відхилено,Отклонено
+2606,applications.introduction,applications,Application,Подача заявки,Подача заявки
+2608,applications.notInterested,applications,Rejected,Відхилено,Отклонено
+2848,hour_short,applications,year,год,ч
+2866,application.resources_text,applications,Preparation materials are available at,Матеріали для підготовки доступні за,Материалы для подготовки доступны по
+2868,application.resources_link,applications,link,посиланням,ссылке
+6938,applications.no-applications,applications,Here you can sign up for full-time studying,Тут можна записатись на навчання повного дня,Здесь можно записаться на обучение полного дня
